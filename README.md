@@ -1019,5 +1019,5 @@ Para dúvidas sobre implementação:
 ---
 
 **Desenvolvido com Docker Swarm** 🐳 | **Orquestração de Containers**  
-**Baseado no curso**: [Docker Swarm: Orquestrador de containers - [Alura](https://www.alura.com.br/) 🎓  
+**Baseado no curso**: [Docker Swarm: Orquestrador de containers - Alura](https://www.alura.com.br/) 🎓  
 *Última atualização: Abril 2024*
